@@ -56,3 +56,31 @@ a{
     border: dashed black 3px;
     
 }
+
+.main-div2 {
+    
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.div-container2 {
+
+    background-color: rgb(47, 122, 220);
+    height: 350px;
+    width: 40%;
+    border: dashed black 3px;
+
+}
+.div-container2-1 {
+
+    background-color: rgb(249, 152, 158);
+    height: 350px;
+    width: 25%;
+    border: dashed black 3px;
+
+}
