@@ -1,11 +1,47 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 0%;
     box-sizing: border-box;
 }
 
 header {
 
-    background-color: azure;
-    height: 50px;
+    background-color: aqua;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container {
+    background-color: orange;
+    height: 70px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    border: dashed black 5px;
+    align-items: center;
+    
+  
+    
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+nav {
+    
+    
+
+    
+
+    
+
 }
