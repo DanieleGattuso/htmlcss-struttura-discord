@@ -17,7 +17,7 @@ header {
 .container {
     background-color: rgb(255, 174, 24);
     height: 70px;
-    width: 90%;
+    width: 65%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -132,3 +132,69 @@ a{
     border: dashed black 2px;
 
 }
+
+.main-div5 {
+
+    background-color: rgb(34, 33, 33);
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-container5{
+
+    background-color: rgb(249, 152, 158);
+    height: 400px;
+    width: 25%;
+    border: dashed rgb(0, 0, 0) 2px;
+
+
+
+}
+
+.div-container5-1 {
+
+    background-color: rgb(75, 155, 176);
+    height: 400px;
+    width: 10%;
+    border: dashed rgb(255, 255, 255) 2px;
+
+
+}
+
+footer {
+
+    background-color: rgb(34, 33, 33);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px white solid;
+    border-bottom: 1px white solid;
+
+}
+
+.container-footer {
+
+    background-color: rgb(28, 236, 232);
+    height: 70px;
+    width: 65%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+   
+    align-items: center;
+    padding: 0;
+
+}
+
+.nav-footer {
+
+    border: 1px black solid;
+    background-color: rgb(240, 190, 190);
+    padding: 4px;
+}
+    
