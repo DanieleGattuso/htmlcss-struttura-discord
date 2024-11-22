@@ -56,7 +56,7 @@ a{
     border: dashed black 3px;
     
 }
-
+ /* seconda parte  */
 .main-div2 {
     
     background-color: rgb(255, 255, 255);
@@ -73,7 +73,7 @@ a{
     background-color: rgb(47, 122, 220);
     height: 350px;
     width: 40%;
-    border: dashed black 3px;
+    border: dashed black 2px;
 
 }
 .div-container2-1 {
@@ -81,6 +81,54 @@ a{
     background-color: rgb(249, 152, 158);
     height: 350px;
     width: 25%;
-    border: dashed black 3px;
+    border: dashed black 2px;
+
+}
+
+/* terza parte */
+
+.main-div3 {
+
+    background-color: rgb(195, 195, 195);
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-container3 {
+
+    background-color: rgb(47, 122, 220);
+    height: 350px;
+    width: 40%;
+    border: dashed black 2px;
+
+}
+.div-container3-1 {
+
+    background-color: rgb(249, 152, 158);
+    height: 350px;
+    width: 25%;
+    border: dashed black 2px;
+}
+
+.main-div4 {
+
+    background-color: rgb(195, 195, 195);
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.div-container4 {
+
+    background-color: rgb(15, 137, 56);
+    height: 500px;
+    width: 65%;
+    border: dashed black 2px;
 
 }
